@@ -1,0 +1,13 @@
+body {
+    background-color: beige;
+    margin-left: 2rem;
+}  
+
+a {
+    display: block;
+    margin-left: 3rem;
+}
+
+h2 {
+    margin-bottom: 0;
+}
